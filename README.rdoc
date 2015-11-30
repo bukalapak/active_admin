@@ -1,5 +1,7 @@
 = Active Admin
 
+{<img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/bukalapak/active_admin">}[https://gitter.im/bukalapak/active_admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 Active Admin is a framework for creating administration style interfaces. It
 abstracts common business application patterns to make it simple for developers
 to implement beautiful and elegant interfaces with very little effort.
